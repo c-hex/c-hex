@@ -1,9 +1,14 @@
-### Hi there 👋
+### 👋 Hello, I'm Ryu Chaeyeon who dreams of becoming a developer.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-hex&hide=ShaderLab,HLSL&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
-**c-hex/c-hex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+▶ 스탯
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-hex&count_private=true)](https://github.com/c-hex/github-readme-stats)
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
