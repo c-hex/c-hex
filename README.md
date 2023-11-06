@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Ryu Chaeyeon who dreams of becoming a developer.
+### 👋 Hello, I'm ChaeYeon Ryu. I'm trying to become an AI expert.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-hex&hide=ShaderLab,HLSL&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
